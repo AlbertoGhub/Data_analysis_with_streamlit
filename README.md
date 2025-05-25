@@ -49,6 +49,16 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+# 📦 Project Structure
+
+```bash
+project/
+├── data/
+├── main.py
+├── requirements.yml
+├── requirements.txt
+```
+
 ## 🧭 Step-by-Step Guide
 
 - Upload a CSV file via the upload widget.
