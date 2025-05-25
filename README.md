@@ -60,8 +60,7 @@ streamlit run app.py
 - Choose X and Y axes for a line chart.
 - Click "Generate line chart" to visualise trends in your filtered data.
 
-### 📸 Video of all the process (pending on doing it)
-
+### 📸 Full Process Walkthrough *(Video coming soon)*
 
 ## 🔧 To-Do
 - Add support for more chart types (bar, scatter, histogram)
